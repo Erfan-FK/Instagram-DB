@@ -12,3 +12,8 @@ This repository contains a collection of SQL scripts written in PostgreSQL. Thes
 - `mostPopularUsers.sql`: This script is aimed at identifying and retrieving the most popular users from the database. The definition of popularity may vary based on your specific requirements.
 
 - `recursiveCTE.sql`: This script demonstrates the usage of recursive common table expressions (CTEs) in PostgreSQL. Recursive CTEs allow you to perform recursive queries, enabling tasks such as traversing hierarchical data structures.
+  
+| Schema |
+|:-------:|
+| ![Schema](/screenshots/database.png) |
+
